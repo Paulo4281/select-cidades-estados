@@ -2,9 +2,9 @@
 
 Este projeto oferece uma implementação de seletores (`selects`) contendo todos os estados e cidades do Brasil.<br>
 
-O arquivo `index.html` contém um exemplo de como o HTML deve ser estruturado em seu próprio código.<br>
+O arquivo `index.html` contém um exemplo de como o HTML deve se parecer em seu próprio código.<br>
 
-O arquivo `estados_cidades.js` é onde você encontrará tudo o que precisa para o funcionamento deste projeto :slightly_smiling_face:<br>
+O arquivo `estados_cidades.js` é onde você encontrará tudo o que precisa para o funcionamento desse projeto :slightly_smiling_face:<br>
 
 O arquivo `style.css` contém estilos rápidos, sendo opcional para o funcionamento do código.<br>
 
