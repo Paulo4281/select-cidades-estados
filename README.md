@@ -2,7 +2,7 @@
 
 Selects com todos os estados e cidades do Brasil.<br>
 
-O arquivo index.html contém apenas um exemplo de como o HTMl deverá se parecer em seu código.<br>
+O arquivo index.html contém apenas um exemplo de como o HTML deverá se parecer em seu código.<br>
 
 O arquivo estados_cidades.js é onde de fato está tudo que você precisa :)<br>
 
