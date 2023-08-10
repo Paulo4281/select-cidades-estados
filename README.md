@@ -18,4 +18,4 @@ Este projeto é útil quando você estiver construindo formulários HTML que nec
 
 ## Por que utilizar este projeto?
 
-É comum que os usuários digitem incorretamente nomes de estados e/ou cidades ao preencher formulários. Para evitar esse problema, este projeto disponibiliza seletores com todos os nomes de cidades e estados devidamente preenchidos, garantindo a consistência dos dados e evitando o armazenamento de informações incorretas em bancos de dados.<br>
+É comum às vezes usuários digitarem incorretamente nomes de estados e/ou cidades ao preencher formulários. Para evitar esse problema, este projeto disponibiliza seletores com todos os nomes de cidades e estados devidamente preenchidos, garantindo a consistência dos dados e evitando o armazenamento de informações incorretas em bancos de dados.<br>
