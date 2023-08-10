@@ -1,21 +1,21 @@
-# <select> cidades-estados #
+# `select` Cidades e Estados do Brasil
 
-Selects com todos os estados e cidades do Brasil.<br>
+Este projeto oferece uma implementação de seletores (`selects`) contendo todos os estados e cidades do Brasil.<br>
 
-O arquivo index.html contém apenas um exemplo de como o HTML deverá se parecer em seu código.<br>
+O arquivo `index.html` contém um exemplo de como o HTML deve ser estruturado em seu próprio código.<br>
 
-O arquivo estados_cidades.js é onde de fato está tudo que você precisa :)<br>
+O arquivo `estados_cidades.js` é onde você encontrará tudo o que precisa para o funcionamento deste projeto :slightly_smiling_face:<br>
 
-O arquivo style.css é usado apenas para um estilo rápido, não é necessário para funcionamento do código.<br>
+O arquivo `style.css` contém estilos rápidos, sendo opcional para o funcionamento do código.<br>
 
-# Como utilizar?
+## Como utilizar?
 
-Tudo que você precisa fazer é alterar as duas constantes estadoSelect e cidadeSelect para puxar os IDs dos <select> de seu próprio projeto.<br>
+Tudo o que você precisa fazer é alterar as constantes `estadoSelect` e `cidadeSelect` para referenciar os IDs dos elementos `select` do seu próprio projeto.<br>
 
-# Em quais situações vou utilizar?
+## Em quais situações esse projeto é útil?
 
-Quando estiver construindo formulários HTML que precisam de <select> para estados e/ou cidades.<br>
+Este projeto é útil quando você estiver construindo formulários HTML que necessitam de seletores (`selects`) para escolha de estados e/ou cidades.<br>
 
-# Por que devo utilizar?
+## Por que utilizar este projeto?
 
-É comum às vezes usuários digitar incorretamente o nome do estado e/ou da cidade onde moram. Para driblar esse problema, eu criei esse <select> com todos os nomes de cidades e estados preenchidos corretamente, dessa forma impedindo que fiquem salvos em banco de dados nomes incorretos de estados ou cidades.<br>
+É comum que os usuários digitem incorretamente nomes de estados e/ou cidades ao preencher formulários. Para evitar esse problema, este projeto disponibiliza seletores com todos os nomes de cidades e estados devidamente preenchidos, garantindo a consistência dos dados e evitando o armazenamento de informações incorretas em bancos de dados.<br>
