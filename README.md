@@ -8,7 +8,7 @@ Formulários que envolvem seleção de estados e cidades podem ser problemático
 
 ## Como utilizar?
 
-1. No arquivo `estados_cidades.js`, apenas substitua os ids das const `cidadeSelect` e `estadoSelect` pelos ids dos <select> em seu código HTML.
+1. No arquivo `estados_cidades.js`, apenas substitua os ids das const `cidadeSelect` e `estadoSelect` pelos ids dos `<select>` em seu código HTML.
 2. O arquivo `style.css` contém estilos pré-definidos, sendo opcional para personalização do visual.
 
 ## Em quais situações este projeto é útil?
