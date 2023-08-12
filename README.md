@@ -1,4 +1,4 @@
-# `select` Cidades e Estados do Brasil
+# `<select>` Cidades e Estados do Brasil
 
 Este projeto oferece uma solução prática para a inclusão de seletores de estados e cidades do Brasil em formulários HTML.
 
